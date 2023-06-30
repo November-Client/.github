@@ -1,2 +1,2 @@
 # .github
-:eyes: nothing to see here
+Information about the client
